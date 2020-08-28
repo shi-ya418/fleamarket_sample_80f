@@ -42,7 +42,6 @@ Things you may want to cover:
 ### Association
 - has_many :addresses
 - has_many :favorites
-- has_many :orders
 - has_many :products
 - has_many :comments
 - has_many :credit_cards
@@ -80,7 +79,6 @@ Things you may want to cover:
 |user_id|integer|null:false, foreign_key: true|
 ### Association
 - belongs_to :user
-- has_one :order
 - has_many :favorites
 - belongs_to :category
 - has_many :images
