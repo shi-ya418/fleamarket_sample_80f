@@ -45,6 +45,14 @@ Chromeの最新版を利用してアクセスしてください。
 ## デモ画像
 ### トップページ
 ![トップページ](readme_images/top_page.gif)
+### 商品出品ページ
+![商品出品ページ](readme_images/product_new.gif)
+### 商品出品エラーページ
+![商品出品ページ](readme_images/product_error.png)
+### 商品詳細ページ
+![商品出品ページ](readme_images/product_show.png)
+### ユーザー登録ページ
+![商品出品ページ](readme_images/user_new.png)
 
 ## 担当箇所一覧と確認方法
 ### 本番環境へのデプロイ（バックエンド）
