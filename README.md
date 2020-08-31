@@ -44,7 +44,7 @@ Chromeの最新版を利用してアクセスしてください。
 
 ## デモ画像
 ### トップページ
-![トップページ](readme_images/top_page.mov)
+![トップページ](readme_images/top_page.gif)
 
 ## 担当箇所一覧と確認方法
 ### 本番環境へのデプロイ（バックエンド）
